@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">I'm Malek, Full-stack developer from  Jordan, currently living in  Amman, Jordan.</p>
+<h3 align="left">My name is Malek, Full-stack developer from  Jordan, currently living in  Amman, Jordan.</h3>
 
 ###
 
-<h4 align="left">I'm currently learning JS At ASAC.</h4>
+<h3 align="left">I'm currently learning JS At ASAC.</h3>
 
 ###
 
@@ -54,6 +54,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img href="https://raw.githubusercontent.com/MalekJamal/MalekJamal/blob/output/snake.svg" alt="Snake animation" />
 
