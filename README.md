@@ -2,17 +2,15 @@
 
 ###
 
-<h3 align="left">My name is Malek, and I'm a software engineer from Jordan.</h3>
-
-###
-
-<br clear="both">
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MAlek.MAlek&"  />
 
 ###
 
 <h2 align="left">About me</h2>
+
+###
+
+<h3 align="left">My name is Malek, and I'm a software engineer from Jordan.</h3>
 
 ###
 
@@ -60,6 +58,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
 
 ###
 
