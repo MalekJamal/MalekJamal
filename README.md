@@ -63,9 +63,5 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/MalekJamal/MalekJamal/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 ### contributions graph
 ![snake gif](https://github.com/MalekJamal/MalekJamal/blob/output/github-contribution-grid-snake.gif)
