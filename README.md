@@ -63,5 +63,4 @@
 
 ###
 
-### contributions graph
-![snake gif](https://github.com/MalekJamal/MalekJamal/blob/output/github-contribution-grid-snake.gif)
+
