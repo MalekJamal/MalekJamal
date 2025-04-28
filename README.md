@@ -1,5 +1,3 @@
-# cpp-tutorial
-A beginner-friendly C++ tutorial project with examples, exercises, and basic concepts explained through code.
 <h1 align="center">Hi 👋, I'm Malek</h1>
 <h3 align="center">A passionate Software Engineer from Jordan</h3>
 
