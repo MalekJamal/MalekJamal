@@ -9,8 +9,8 @@
 
 ### 🔥 About Me
 - 🎓 I'm a graduate of **Software Engineering**
-- 🌍 I'm based in **[City, Country]**
-- 🌱 Currently learning **[New Technology you're learning]**
+- 🌍 I'm based in **Amman, Jordan**
+- 🌱 Currently learning **Desgin Pattren, CQRS**
 - 🚀 I love building **modern, efficient, and scalable applications**
 - 💬 Ask me about **.NET, C#, SQL, Dapper, Bootstrap, JavaScript**
 - 📫 How to reach me: malekhamdan82@gmail.com
@@ -27,7 +27,10 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
+
 
 ---
 
@@ -42,9 +45,12 @@
 
 ### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MalekJamal/MalekJamal/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalekJamal/MalekJamal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MalekJamal/MalekJamal/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/MalekJamal/MalekJamal/output/github-snake.svg" />
+</picture>
+
 
 ---
 
